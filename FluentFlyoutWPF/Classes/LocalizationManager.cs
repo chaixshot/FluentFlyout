@@ -61,6 +61,7 @@ public static class LocalizationManager
         { "zh-TW", "Segoe UI Variable, Microsoft JhengHei UI, Yu Gothic UI, Malgun Gothic" },
         { "ja", "Segoe UI Variable, Yu Gothic UI, Microsoft YaHei UI, Malgun Gothic" },
         { "ko", "Segoe UI Variable, Malgun Gothic, Microsoft YaHei UI, Yu Gothic UI" },
+        { "th", "Segoe UI Variable, Microsoft YaHei UI, Yu Gothic UI, Malgun Gothic, SF Thonburi" },
     };
 
     // right-to-left languages
